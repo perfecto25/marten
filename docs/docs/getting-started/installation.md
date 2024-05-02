@@ -17,6 +17,14 @@ On macOS or Linux, Crystal can be installed using [Homebrew](https://brew.sh/) (
 brew install crystal
 ```
 
+### Using Snap
+
+on Linux with snapd, Crystal can be installed via
+
+```bash
+sudo snap install crystal --classic
+```
+
 ### Using APT
 
 On Ubuntu, Debian or any other Linux distribution using the APT package manager, Crystal can be installed by running the following command:
